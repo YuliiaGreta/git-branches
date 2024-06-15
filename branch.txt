@@ -1,1 +1,7 @@
 Changes in main
+It same text add
+is some text
+Text -3
+Test text 1
+Test text 2
+Resolve merge conflict between main and branch2
